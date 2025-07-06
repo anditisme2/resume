@@ -7,7 +7,6 @@ body{
 }
 .container{
     display: flex;
-    max-width: 1000px;
 }
 .sidebar {
       background-color: #2F4F4F; /* Dark Slate Gray */
